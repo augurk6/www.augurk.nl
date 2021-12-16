@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Augurk</title>
+    <link>https://dragonfly-iguana-hgzk.squarespace.com</link>
+    <pubDate>Thu, 16 Dec 2021 13:32:02 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>730364954</wp:author_id>
+      <wp:author_login>dewen.top@gmail.com</wp:author_login>
+      <wp:author_email>dewen.top@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Dewen Gaming]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Dewen]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Gaming]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Thu, 16 Dec 2021 14:13:25 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="61bb404295a4873b3cfecbdb" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    bright'
+  
+  data-section-id="61bb404295a4873b3cfecbde"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;61bb429f47f5391f9e1e836b&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1639662239597,
+    &quot;updatedOn&quot;: 1639662239649,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1639662239597,
+    &quot;authorId&quot;: &quot;61bb3fd05c269a3dcf44fcb5&quot;,
+    &quot;systemDataId&quot;: &quot;79da23a9-3199-419c-a345-2d068e4879c8&quot;,
+    &quot;systemDataVariants&quot;: &quot;1024x682,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;augurken.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;908331&quot;,
+      &quot;topRightAverage&quot;: &quot;736712&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;71630a&quot;,
+      &quot;bottomRightAverage&quot;: &quot;574c0b&quot;,
+      &quot;centerAverage&quot;: &quot;695c0f&quot;,
+      &quot;suggestedBgColor&quot;: &quot;66590f&quot;
+    },
+    &quot;urlId&quot;: &quot;ewhac3538xrqdmw6e1aij0k8ntk85m&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;61bb3fd05c269a3dcf44fcb5&quot;,
+      &quot;displayName&quot;: &quot;Dewen Gaming&quot;,
+      &quot;firstName&quot;: &quot;Dewen&quot;,
+      &quot;lastName&quot;: &quot;Gaming&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/61bb3fd2a58610748c5021db&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/61bb3fd2a58610748c5021db&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1024x682&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 70,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg" data-image="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg" data-image-dimensions="1024x682" data-image-focal-point="0.5,0.5" alt="augurken.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/79da23a9-3199-419c-a345-2d068e4879c8/augurken.jpg?format=original 1500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-61bb404295a4873b3cfecbde"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-053d12b7185beed1b3da"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;"><strong>Word een Augurk</strong></h1></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="61bb40e13c6e8616f2d2453c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-61bb40e13c6e8616f2d2453c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ef0595d2b97e2015206"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;"> AUGURKEN VOOR ALTIJD</h2></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-6d4c02b4a1936203bcc2"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:288px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:60.76388931274414%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/0e7ff573-7452-4842-b5a2-5f620e8924fd/Augurk.jfif" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/0e7ff573-7452-4842-b5a2-5f620e8924fd/Augurk.jfif" data-image="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/0e7ff573-7452-4842-b5a2-5f620e8924fd/Augurk.jfif" data-image-dimensions="288x175" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61bb42fd0cd3c8438484c5b6" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-f8c4611567783fc0ad93"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1726px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:68.42410278320312%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/9a2fa380-69df-46e0-8208-399527653a89/augurk.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/9a2fa380-69df-46e0-8208-399527653a89/augurk.jpg" data-image="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/9a2fa380-69df-46e0-8208-399527653a89/augurk.jpg" data-image-dimensions="1726x1181" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61bb4369b48c9436f5821ca3" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-f13f96d18e3b73697953"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:195px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:132.3076934814453%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/00cd8bb2-4516-4aca-aecd-9330e533976b/Real+Rick.jfif" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/00cd8bb2-4516-4aca-aecd-9330e533976b/Real+Rick.jfif" data-image="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/00cd8bb2-4516-4aca-aecd-9330e533976b/Real+Rick.jfif" data-image-dimensions="195x258" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61bb431eb8781c1398b33a51" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-ff8570025a4339f00c15"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1200px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:52.33333206176758%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/39d1e513-854b-4fb1-a9e3-a734fd5a4801/augurk-mag-een-hond.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/39d1e513-854b-4fb1-a9e3-a734fd5a4801/augurk-mag-een-hond.jpg" data-image="https://images.squarespace-cdn.com/content/v1/61bb3fd2d8e83f77297eebad/39d1e513-854b-4fb1-a9e3-a734fd5a4801/augurk-mag-een-hond.jpg" data-image-dimensions="1200x628" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61bb44e4d6a3c37fddcfcbbe" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="61bb404295a4873b3cfecbe0"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 40,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-61bb404295a4873b3cfecbe0"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-24e4c2bf989e554e3b17"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Only the Highest Quality Ingredients</h3><p style="text-align:center;white-space:pre-wrap;" class="">In fact, we grow most of them ourselves on our 17-acre farm!</p></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="4.714285714285714" data-block-type="21" id="block-2ec7082a0acb75886551"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block product-block sqs-block-product" data-block-type="43" id="block-9eaf34dcbc9cc1b2ffa6"><div class="sqs-block-content">
+
+
+  
+<div class="sqs-blockStatus sqs-blockStatus--overlayMode" data-state="uninitialized">
+
+  <div class="sqs-blockStatus-disclosure">
+    
+  </div>
+
+  <div class="sqs-blockStatus-box">
+    <div class="sqs-blockStatus-box-title">Product Block</div>
+    
+      <div class="sqs-blockStatus-box-message">
+        This is an example product. Double-click here to search for one of your own products to display.
+        
+          <a class="sqs-blockStatus-box-kbArticleLink" href="https://support.squarespace.com/hc/articles/205814508" target="_blank">Learn more</a>
+        
+      </div>
+    
+  </div>
+
+</div>
+
+
+
+
+
+  
+
+  <div class="product-block  sqs-block-is-placeholder clear"
+       data-block-state="uninitialized"
+       data-product-type="1">
+
+    
+        
+        <div class="image-container">
+          <a href="">
+            
+              
+            
+
+            <img class="sqs-product-block-main-image" src="https://assets.squarespace.com/universal/images-v6/configuration/placeholder/3x2-image-2-half-color.jpg" data-image="https://assets.squarespace.com/universal/images-v6/configuration/placeholder/3x2-image-2-half-color.jpg" data-image-dimensions="2000x1334" data-image-focal-point="0.5,0.5" alt="Aenean eu leo Quam"  data-load="false" />
+
+            <div class="sqs-product-mark-wrapper">
+              
+            </div>
+          </a>
+
+          
+        </div>
+        
+    
+
+    <div class="productDetails left">
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+
+  </div>
+
+
+
+<script>document.querySelector('.product-block .product-block').classList.add('is-first-product-block');</script>
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block product-block sqs-block-product" data-block-type="43" id="block-3b3ee026cf03762a3746"><div class="sqs-block-content">
+
+
+  
+<div class="sqs-blockStatus sqs-blockStatus--overlayMode" data-state="uninitialized">
+
+  <div class="sqs-blockStatus-disclosure">
+    
+  </div>
+
+  <div class="sqs-blockStatus-box">
+    <div class="sqs-blockStatus-box-title">Product Block</div>
+    
+      <div class="sqs-blockStatus-box-message">
+        This is an example product. Double-click here to search for one of your own products to display.
+        
+          <a class="sqs-blockStatus-box-kbArticleLink" href="https://support.squarespace.com/hc/articles/205814508" target="_blank">Learn more</a>
+        
+      </div>
+    
+  </div>
+
+</div>
+
+
+
+
+
+  
+
+  <div class="product-block  sqs-block-is-placeholder clear"
+       data-block-state="uninitialized"
+       data-product-type="1">
+
+    
+        
+        <div class="image-container">
+          <a href="">
+            
+              
+            
+
+            <img class="sqs-product-block-main-image" src="https://assets.squarespace.com/universal/images-v6/configuration/placeholder/3x2-image-8-half-color.jpg" data-image="https://assets.squarespace.com/universal/images-v6/configuration/placeholder/3x2-image-8-half-color.jpg" data-image-dimensions="2000x1334" data-image-focal-point="0.5,0.5" alt="Aenean eu leo Quam"  data-load="false" />
+
+            <div class="sqs-product-mark-wrapper">
+              
+            </div>
+          </a>
+
+          
+        </div>
+        
+    
+
+    <div class="productDetails center">
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+
+  </div>
+
+
+
+<script>document.querySelector('.product-block .product-block').classList.add('is-first-product-block');</script>
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block product-block sqs-block-product" data-block-type="43" id="block-e4caecc0c1948e726064"><div class="sqs-block-content">
+
+
+  
+<div class="sqs-blockStatus sqs-blockStatus--overlayMode" data-state="uninitialized">
+
+  <div class="sqs-blockStatus-disclosure">
+    
+  </div>
+
+  <div class="sqs-blockStatus-box">
+    <div class="sqs-blockStatus-box-title">Product Block</div>
+    
+      <div class="sqs-blockStatus-box-message">
+        This is an example product. Double-click here to search for one of your own products to display.
+        
+          <a class="sqs-blockStatus-box-kbArticleLink" href="https://support.squarespace.com/hc/articles/205814508" target="_blank">Learn more</a>
+        
+      </div>
+    
+  </div>
+
+</div>
+
+
+
+
+
+  
+
+  <div class="product-block  sqs-block-is-placeholder clear"
+       data-block-state="uninitialized"
+       data-product-type="1">
+
+    
+        
+        <div class="image-container">
+          <a href="">
+            
+              
+            
+
+            <img class="sqs-product-block-main-image" src="https://assets.squarespace.com/universal/images-v6/configuration/placeholder/3x2-image-2-half-color.jpg" data-image="https://assets.squarespace.com/universal/images-v6/configuration/placeholder/3x2-image-2-half-color.jpg" data-image-dimensions="2000x1334" data-image-focal-point="0.5,0.5" alt="Porta"  data-load="false" />
+
+            <div class="sqs-product-mark-wrapper">
+              
+            </div>
+          </a>
+
+          
+        </div>
+        
+    
+
+    <div class="productDetails left">
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+
+  </div>
+
+
+
+<script>document.querySelector('.product-block .product-block').classList.add('is-first-product-block');</script>
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="1.5714285714285714" data-block-type="21" id="block-b9ed43f8711eff205e7f"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-f159567953e38d3d1cc7"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+	<a
+    href="/shop"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Shop Now
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    bright'
+  
+  data-section-id="61bb404295a4873b3cfecbe2"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;61bb404295a4873b3cfecbd0&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1559153721325,
+    &quot;updatedOn&quot;: 1560797145412,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1559153721325,
+    &quot;authorId&quot;: &quot;61bb3fd05c269a3dcf44fcb5&quot;,
+    &quot;systemDataId&quot;: &quot;1559153723232-1DM5OCLN1FPII8S0S6I5&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;pink-image.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;fdb2b7&quot;,
+      &quot;topRightAverage&quot;: &quot;feb2b6&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;feb5bc&quot;,
+      &quot;bottomRightAverage&quot;: &quot;feafb4&quot;,
+      &quot;centerAverage&quot;: &quot;d5918b&quot;,
+      &quot;suggestedBgColor&quot;: &quot;fdb2b7&quot;
+    },
+    &quot;urlId&quot;: &quot;849xzh2vl9uk3vbovmtvpo9lhra906-bwhk4&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;61bb3fd05c269a3dcf44fcb5&quot;,
+      &quot;displayName&quot;: &quot;Dewen Gaming&quot;,
+      &quot;firstName&quot;: &quot;Dewen&quot;,
+      &quot;lastName&quot;: &quot;Gaming&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/61bb3fd2a58610748c5021db&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/61bb3fd2a58610748c5021db&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1559153723232-1DM5OCLN1FPII8S0S6I5/pink-image.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x1667&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1559153723232-1DM5OCLN1FPII8S0S6I5/pink-image.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1559153723232-1DM5OCLN1FPII8S0S6I5/pink-image.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="pink-image.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="page-section" data-updated-on="1639664297579" id="page-section-61bb404295a4873b3cfecbe2"></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--inset
+    
+      
+      
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="61bb404295a4873b3cfecbe4"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 25,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 25vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(25vmax / 10); padding-bottom: calc(25vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-61bb404295a4873b3cfecbe4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7eea83ab0634b9c7d6a3"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">What’s the Dill?</h2><p style="text-align:center;white-space:pre-wrap;" class="">Sign up with your email address to receive news and updates.</p></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="61bb404295a4873b3cfecbe5"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-animation="none"
+  data-json-schema-section 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          <div class="gallery" style="min-height: 100px;">
+  
+    <!-- Gallery Grid -->
+
+<div
+  class="gallery-grid gallery-grid--layout-grid"
+  data-controller="GalleryGrid"
+  
+  data-section-id="61bb404295a4873b3cfecbe5"
+  data-animation="fade-up"
+  data-lightbox=""
+  data-width="inset"
+  data-aspect-ratio="square"
+  data-columns="3"
+  data-gutter="60"
+  data-props='{
+  "aspectRatio": "square",
+  "scrollAnimation": "fade-up",
+  "gutter": 60,
+  "numColumns": 3,
+  "width": "inset",
+  "lightboxEnabled": false
+}'
+  data-show-captions="false"
+  data-test="gallery-grid-simple"
+>
+  <div class="gallery-grid-wrapper">
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1585672165410-UV0ZPANAANU3C1TWWIIJ/pickels.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1585672165410-UV0ZPANAANU3C1TWWIIJ/pickels.jpeg" data-image-dimensions="750x750" data-image-focal-point="0.5,0.5" alt="pickels.jpeg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1585672165647-FHINUJX0SLBWU9XH77XJ/hot-pepper.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1585672165647-FHINUJX0SLBWU9XH77XJ/hot-pepper.jpeg" data-image-dimensions="750x750" data-image-focal-point="0.5,0.5" alt="hot-pepper.jpeg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-grid-item">
+      <div class="gallery-grid-item-wrapper">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1585672165290-B0RLEMS59MGCBBHL4Z8B/cabbage.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ce82b63338ade0001773744/1585672165290-B0RLEMS59MGCBBHL4Z8B/cabbage.jpeg" data-image-dimensions="750x750" data-image-focal-point="0.5,0.5" alt="cabbage.jpeg"  data-load="false" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+  </div>
+  
+</div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</div>
+        </div>
+      
+      
+      
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
